@@ -1,6 +1,7 @@
 <?php 
 session_start();
-include('db.php');
+require('db.php');
+
 if (isset($_POST['submit'])) {
 
     $email=mysqli_real_escape_string($pdo,$_POST['email']);

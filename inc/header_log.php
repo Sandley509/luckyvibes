@@ -33,7 +33,7 @@
             -moz-box-shadow: 0px 6px 0px 0px rgba(58, 0, 144, 1);
             box-shadow: 0px 6px 0px 0px rgba(58, 0, 144, 1);
             text-shadow: 5px 5px 0px rgba(88, 19, 184, .8);
-            width: 100%;
+            width: 150px auto;
             border: 0;
             margin-bottom: 25px;
             cursor: pointer;
@@ -71,9 +71,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">About Us</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="promotion.html">Raf for items</a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link" href="game.html">Spin</a>
                     </li>
@@ -81,17 +79,18 @@
                         <a class="nav-link" href="Purchase.html">Purchase Items</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Purchase.html">Welcome   <i class="fas fa-user"></i> </a>
+                        <a class="nav-link" href="Purchase.html">Welcome  <?=$_SESSION['username'] ?> <i class="fas fa-user"></i> </a>
                     </li>
                
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="error404.html">404</a>
                     </li> -->
+                    <a href="logout.php" class="logout">Logout</a>
                 </ul>
                 <!-- <a href="sign_up.php">Singup</a> -->
-                <form action="logout.php" method="post">
-                <a href="login.php" name="submit" class="logout">Logout</a>
-                </form>
+            
+                      
+                    
             </div>
         </div>
     </nav>

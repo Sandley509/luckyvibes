@@ -11,7 +11,8 @@ include_once('header.php');
             <div class="row">
             <div class="col-sm-6 col-12 col-md-7 col-lg-6 pr-md-0 offset-lg-1">
                     <div class="claim_text">
-                        <h2>Get The chance to Win an iphone 12 pro max</h2>
+                        <h2>Welcome to luckyvibe !!!</h2>
+                        <h2>where everyday is somebody's luckyday</h2>
                         <p class="d-sm-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.
                             <span>Excepteur sint occaecat cupidatat non proident, sunt inrunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</span></p>
                         <p class="d-none d-sm-block d-md-none">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
