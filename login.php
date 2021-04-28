@@ -105,12 +105,20 @@
                     </div>
                 </div>
             </div>
+
+
+
+            <!-- FORm ++++++++++++++++++++++++++++++++++++++++++++++++= -->
+
+
+
+
             <div class="row signup_form_pad log_form_pad">
                 <div class="col-lg-7 offset-lg-5">
                     <div class="main_signup login_main">
                         <h4>Log in</h4>
                         <p>Log in quickly to get all other facilities</p>
-                        <form action="login.inc.php" method="POST">
+                        <form action="inc/login.inc.php" method="POST">
                             <div class="signup_inner log_inner">
                                 <div class="sign_input_inner">
                                     <input type="email" placeholder="your e-mail here" name="email">

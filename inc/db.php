@@ -2,7 +2,7 @@
 // if ($_SESSION['loggedin']== FALSE) {
 //   session_start();
 // }
-session_start();
+
 
 
 

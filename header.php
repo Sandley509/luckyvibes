@@ -65,10 +65,10 @@
             <div class="collapse navbar-collapse main_menu" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.php">Home</a>
+                        <a class="nav-link active" href="index.php">menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About Us</a>
+                        <a class="nav-link" href="about.php">About Raf</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="promotion.html">Raf for items</a>

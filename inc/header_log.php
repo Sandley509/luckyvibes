@@ -14,7 +14,42 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
- 
+    
+    <style>
+        
+      .logout{
+                padding: 14px 30px;
+            background: #9e4efc;
+            background: -moz-linear-gradient(top, #9e4efc 0%, #570dc8 100%);
+            background: -webkit-linear-gradient(top, #9e4efc 0%, #570dc8 100%);
+            background: linear-gradient(to bottom, #9e4efc 0%, #570dc8 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#9e4efc', endColorstr='#570dc8', GradientType=0);
+            border-radius: 5px;
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: 400;
+            font-family: 'Anton', sans-serif;
+            -webkit-box-shadow: 0px 6px 0px 0px rgba(58, 0, 144, 1);
+            -moz-box-shadow: 0px 6px 0px 0px rgba(58, 0, 144, 1);
+            box-shadow: 0px 6px 0px 0px rgba(58, 0, 144, 1);
+            text-shadow: 5px 5px 0px rgba(88, 19, 184, .8);
+            width: 100%;
+            border: 0;
+            margin-bottom: 25px;
+            cursor: pointer;
+      }
+      .logout:hover{
+                background: #ff39dc;
+            background: -moz-linear-gradient(top, #ff39dc 0%, #a60084 100%);
+            background: -webkit-linear-gradient(top, #ff39dc 0%, #a60084 100%);
+            background: linear-gradient(to bottom, #ff39dc 0%, #a60084 100%);
+            filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ff39dc', endColorstr='#a60084', GradientType=0);
+            -webkit-box-shadow: 0px 6px 0px 0px rgba(102, 19, 85, 1);
+            -moz-box-shadow: 0px 6px 0px 0px rgba(102, 19, 85, 1);
+            box-shadow: 0px 6px 0px 0px rgba(102, 19, 85, 1);
+            text-shadow: 5px 5px 0px rgba(166, 0, 132, 0.8);
+      }
+    </style>
 </head>
 
 
@@ -24,7 +59,7 @@
     ===========================================   -->
     <nav class="navbar navbar-expand-md menu_head">
         <div class="container p-md-0">
-            <a class="navbar-brand" href="index.html"><img src="images/menu_logo.png" alt="menu_logo" class="img-fluid"></a>
+            <a class="navbar-brand" href="index.html"><img src="img/menu_logo.png" alt="menu_logo" class="img-fluid logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
             </button>
@@ -46,7 +81,7 @@
                         <a class="nav-link" href="Purchase.html">Purchase Items</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Purchase.html">Welcome  <?php  session_start() ;echo$_SESSION['username']; ?> <i class="fas fa-user"></i> </a>
+                        <a class="nav-link" href="Purchase.html">Welcome   <i class="fas fa-user"></i> </a>
                     </li>
                
                     <!-- <li class="nav-item">
@@ -55,7 +90,7 @@
                 </ul>
                 <!-- <a href="sign_up.php">Singup</a> -->
                 <form action="logout.php" method="post">
-                <a href="login.php" name="submit">Logout</a>
+                <a href="login.php" name="submit" class="logout">Logout</a>
                 </form>
             </div>
         </div>

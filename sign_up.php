@@ -110,7 +110,7 @@
                     <div class="main_signup">
                         <h4>Signup</h4>
                         <p>Register quickly to get all other facilities</p>
-                        <form action="signup_inc.php" method="POST">
+                        <form action="inc/signup_inc.php" method="POST">
                             <div class="signup_inner">
                                 <div class="row fast_input">
                                     <div class="col sign_input_inner">
