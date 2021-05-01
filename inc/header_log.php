@@ -78,17 +78,21 @@
                     <li class="nav-item">
                         <a class="nav-link" href="Purchase.html">Purchase Items</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="Purchase.html">Welcome  <?=$_SESSION['username'] ?> <i class="fas fa-user"></i> </a>
-                    </li>
+
+                    <div class="dropdown">
+  <button class="logout dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <?=$_SESSION['username'] ?>
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="Profile.php">Profile</a>
+    <a class="dropdown-item" href="#">My tickets</a>
+    <a class="dropdown-item" href="logout.php">Logout</a>
+  </div>
+</div>
+
+
                
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="error404.html">404</a>
-                    </li> -->
-                    <a href="logout.php" class="logout">Logout</a>
-                </ul>
-                <!-- <a href="sign_up.php">Singup</a> -->
-            
+                
                       
                     
             </div>

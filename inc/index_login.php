@@ -4,7 +4,9 @@
 ?>
 <header> <?php include('header_log.php'); ?></header>
 <br> <br> <br>
-<body style="background-color:#9e4efc" >
+<body style="background-image: url('img/bg.png');background-position: center;
+background-repeat: no-repeat;
+background-size: cover;"; >
   
     
 <!-- heading slider images -->
