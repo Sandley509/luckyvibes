@@ -102,7 +102,7 @@
 
     <section>
         <div class="foot_bot text-center">
-            <p>&copy; 2021 All rights reserved by <a href="http://wa.me/8098445185">Sandley</a> </p>
+            <p>&copy; 2021 All rights reserved by <a href="http://wa.me/8098445185">Luckyvibes</a> </p>
             <div class="effect">
                 <img src="img/shape.png" alt="shape">
             </div>

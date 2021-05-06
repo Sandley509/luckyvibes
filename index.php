@@ -3,58 +3,27 @@
 include_once('header.php');
 
 ?>
-	<script >
-		$('.js-tilt').tilt({
-			scale: 1.1
-		})
 
-
-		var isMobile = {
-    Android: function() {
-        return navigator.userAgent.match(/Android/i);
-    },
-    BlackBerry: function() {
-        return navigator.userAgent.match(/BlackBerry/i);
-    },
-    iOS: function() {
-        return navigator.userAgent.match(/iPhon
-        e|iPad|iPod/i);
-    },
-    Opera: function() {
-        return navigator.userAgent.match(/Opera Mini/i);
-    },
-    Windows: function() {
-        return navigator.userAgent.match(/IEMobile/i) || navigator.userAgent.match(/WPDesktop/i);
-    },
-    any: function() {
-        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-    }
-};
-
-if( isMobile.any() ){
-      window.location.href="mobile.php";
-      //window.location.href="https://ijustpayht.com/comingsoon/";
-
-}
-
-	</script>
     <!--=============================================
                     Banner part start
     ==============================================-->
+   
     <section id="claim_part">
         <div class="container">
             <div class="row">
             <div class="col-sm-6 col-12 col-md-7 col-lg-6 pr-md-0 offset-lg-1">
                     <div class="claim_text">
                         <h2>Welcome to luckyvibe !!!</h2>
-                        <h2>where everyday is somebody's luckyday</h2>
-                        <p class="d-sm-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.
-                            <span>Excepteur sint occaecat cupidatat non proident, sunt inrunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste.</span></p>
-                        <p class="d-none d-sm-block d-md-none">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            <span>Excepteur sint occaecat cupidatat non proident, sunt inrunt mollit anim id est laborum.</span></p>
+                        <h2>Where everyday is somebody's luckyday,</h2>
+                        
+                            <span style="color:#fff">So, come on and test your luck
+                            in the current or upcomming raffle.
+                            </span></p>
+                        <!-- <p class="d-none d-sm-block d-md-none">
+                            <span></span></p>
                         <div class="clm_btn">
                             <a href="#">Buy the ticket</a>
-                        </div>
+                        </div> -->
                     </div>
                     </div>
                 <div class="col-sm-5 col-12 col-md-5 pl-md-0">
@@ -73,7 +42,7 @@ if( isMobile.any() ){
 
     <!--=============================================
                     Game part start
-    ==============================================-->
+    ==============================================
     <section id="game_part">
         <div class="container text-center">
             <div class="row flow_sha d-none d-md-block">
@@ -176,13 +145,13 @@ if( isMobile.any() ){
                                 <a href="#" class="btn btn-primary btn-sm float-right"> Order </a>
                                 <div class="price-wrap h5">
                                     <span class="price-new">$1280</span>
-                                    <del class="price-old">$1980</del>
+                                    <del class="price-old">$1980</del>-->
                                 </div> <!-- price-wrap.// -->
-                            </div> <!-- action-wrap -->
+                            </div> <!-- action-wrap --
                         </figcaption>
-                    </figure> <!-- card // -->
+                    </figure> card // -->
                 </div> <!-- col // -->
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <figure class="card card-product">
                         <div class="img-wrap"><img src="images/iphone12.jpg">
                         <a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
@@ -193,12 +162,12 @@ if( isMobile.any() ){
                                 <a href="#" class="btn btn-primary btn-sm float-right"> Order </a>
                                 <div class="price-wrap h5">
                                     <span class="price-new">$280</span>
-                                </div> <!-- price-wrap.// -->
+                                </div> price-wrap.// -->
                             </div> <!-- action-wrap -->
                         </figcaption>
                     </figure> <!-- card // -->
                 </div> <!-- col // -->
-                <div class="col-md-3">
+              <!--  <div class="col-md-3">
                     <figure class="card card-product">
                         <div class="img-wrap"><img src="images/iphone-xr.png"> 
                         <a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
@@ -209,11 +178,11 @@ if( isMobile.any() ){
                                 <a href="#" class="btn btn-primary btn-sm float-right"> Order </a>
                                 <div class="price-wrap h5">
                                     <span class="price-new">$280</span>
-                                </div> <!-- price-wrap.// -->
-                            </div> <!-- action-wrap -->
+                                </div> price-wrap.//
+                            </div>
                         </figcaption>
-                    </figure> <!-- card // -->
-                </div> <!-- col // -->
+                    </figure> 
+                </div> 
                 <div class="col-md-3">
                     <figure class="card card-product">
                         <div class="img-wrap"> <img src="images/zflod2.jpg">
@@ -225,7 +194,7 @@ if( isMobile.any() ){
                                 <a href="#" class="btn btn-primary btn-sm float-right"> Order </a>
                                 <div class="price-wrap h5">
                                     <span class="price-new">$280</span>
-                                </div> <!-- price-wrap.// -->
+                                </div>price-wrap.// -->
                             </div> <!-- action-wrap -->
                         </figcaption>
                     </figure> <!-- card // -->
@@ -244,7 +213,6 @@ if( isMobile.any() ){
 
 
 
-
             
     </section> 
     <!--=============================================
@@ -253,7 +221,7 @@ if( isMobile.any() ){
 
     <!--=============================================
                     Claim part start
-    ===========================================   -->
+    ===========================================   
     <section id="claim_part">
         <div class="container">
             <div class="row">
@@ -277,14 +245,13 @@ if( isMobile.any() ){
             </div>
         </div>
     </section>
-    <!--=============================================
+  -=============================================
                     Claim part end
     ===========================================   -->
 
     <!--=============================================
                     Membership part start
-    ===========================================   -->
-    <section id="pricing_part">
+    ===========================================  
         <div class="container text-center p-md-0">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
@@ -334,7 +301,7 @@ if( isMobile.any() ){
             </div>
         </div>
     </section>
-    <!--=============================================
+    =============================================
                     Membership part end
     ===========================================   -->
 
@@ -346,7 +313,7 @@ if( isMobile.any() ){
             <div class="row">
                 <div class="col-lg-7 pl-md-0">
                     <div class="touna_head_left">
-                        <h3>Frequently Ask Questions
+                        <h3>Frequently ask questions
                             <div class="effect2">
                                 <img src="images/shape.png" alt="shape">
                             </div>
@@ -356,14 +323,14 @@ if( isMobile.any() ){
                             <div class="card add_border">
                                 <div class="card-header" id="headingOne">
                                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <span>01. How can get my ticker</span>
+                                        <span>01. How do i purchase ticket?</span>
                                         <i class="fas fa-caret-down"></i>
                                     </button>
                                 </div>
 
                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>Register To the App, choose a Raf,  Choose your payments methods, Paid the tickets and Win.... </p>
+                                        <p>Register on the App, choose a Raffle,  purchase ticket and good luck.</p>
                                     </div>
                                 </div>
                             </div>
@@ -376,34 +343,22 @@ if( isMobile.any() ){
                                 </div>
                                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>We make a RAf ONLINE the Number who win Get The Gift !</p>
+                                        <p>The Raffle will be taken place live on instagram and a winner will be chosen at random.</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="card">
-                                <div class="card-header" id="headingThree">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        <span>03. if i win how did i get my gift?</span>
-                                        <i class="fas fa-caret-down"></i>
-                                    </button>
-                                </div>
-                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                                    <div class="card-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incnt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                    </div>
-                                </div>
-                            </div>
+                          
                             <div class="card">
                                 <div class="card-header" id="headingFour">
                                     <button class="btn btn-link collapsed " type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                        <span>04. What are the benefits for gambiling?</span>
+                                        <span>03. If I win how did I get my gift?</span>
                                         <i class="fas fa-caret-down"></i>
                                     </button>
                                 </div>
 
                                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>When you win we will get all your information that you registred with and the prices will be delivered to you by a Worldwide Shipping Company</p>
+                                        <p> The item will be mailed to the adress on your file.</p>
                                     </div>
                                 </div>
                             </div>

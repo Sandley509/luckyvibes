@@ -138,8 +138,13 @@
                                     <input type="texte" placeholder="your phone number" name="phone">
                                     <i class="fas fa-phone"></i>
                                 </div>
+                                <div class="sign_input_inner">
+                                
+                                <p color="#fff"> <span></span>By checking the box you are agreeing to ours <a href="terms.php"> terms and conditions</a>       </p>
+                                <input type="checkbox" name="" id="" required>
+                                </div>
                                 <button type="submit" name="submit">Signup</button>
-                                <p>Do you have already an account? <a href="#">Sign in</a></p>
+                                <p>Do you have already an account? <a href="login.php">Sign in</a></p>
                                 <h6>
                                     <span>Or Register with</span>
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>

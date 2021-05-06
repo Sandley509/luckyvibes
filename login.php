@@ -10,7 +10,7 @@
                     <div class="about_menu">
                         <h2>Login</h2>
                         <div class="bread">
-                            <a href="index.html">Home</a><span>&#62;</span><a class="active" href="login.html">Login</a>
+                            <a href="index.php">Home </a><span>&#62;</span><a class="active" href="login.html">Login</a>
                         </div>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                                 </div>
                                 <button type="submit" name="submit">Log in</button>
                                 <a href="#">Forget password</a>
-                                <p class="log_acc_yet">Don’t you have any account yet? <a href="#">Sign in</a></p>
+                                <p class="log_acc_yet">Don’t you have any account yet? <a href="sign_up.php">Sign up</a></p>
                             </div>
                         </form>
                     </div>
