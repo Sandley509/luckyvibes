@@ -40,7 +40,7 @@
             <div class="row">
                 <div class="col-lg-4 col-12 pl-md-0">
                     <div class="foot_about">
-                        <h3>About RafJackpot</h3>
+                        <h3>About Luckyvibes</h3>
                         <p>We give you the chance to Win a Dream Phone with 10$</p>
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>

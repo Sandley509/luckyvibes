@@ -69,19 +69,19 @@
                     </li>
                   
                     <li class="nav-item">
-                        <a class="nav-link" href="promotion.html">Raf for items</a>
+                        <a class="nav-link" href="#">Raf for items</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="game.html">Spin</a>
+                        <a class="nav-link" href="#">Spin</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Purchase.html">Purchasable Items</a>
+                        <a class="nav-link" href="#">Purchasable Items</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="contact.php">Contact Us</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="error404.html">404</a>

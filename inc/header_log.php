@@ -49,6 +49,9 @@
             box-shadow: 0px 6px 0px 0px rgba(102, 19, 85, 1);
             text-shadow: 5px 5px 0px rgba(166, 0, 132, 0.8);
       }
+      .black{
+          background-color:black;
+      }
     </style>
 </head>
 
@@ -57,7 +60,7 @@
     <!--=============================================
                     Menu part start
     ===========================================   -->
-    <nav class="navbar navbar-expand-md menu_head">
+    <nav class="navbar navbar-expand-md menu_head black">
         <div class="container p-md-0">
         <a class="navbar-brand" href="index_login.php">Luckyvibes  <!--<img src="images/menu_logo.png" alt="menu_logo" class="img-fluid"> --></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -66,17 +69,17 @@
             <div class="collapse navbar-collapse main_menu" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.php"> Home</a>
+                        <a class="nav-link active" href="#"> Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About Us</a>
+                        <a class="nav-link" href="#">About Us</a>
                     </li>
                     
                     <li class="nav-item">
-                        <a class="nav-link" href="game.html">Spin</a>
+                        <a class="nav-link" href="#">Spin</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Purchase.html">Purchase Items</a>
+                        <a class="nav-link" href="#">Purchase Items</a>
                     </li>
 
                     <div class="dropdown">
@@ -84,7 +87,7 @@
   <?=$_SESSION['username'] ?>
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="Profile.php">Profile</a>
+    <a class="dropdown-item" href="#">Profile</a>
     <a class="dropdown-item" href="#">My tickets</a>
     <a class="dropdown-item" href="logout.php">Logout</a>
   </div>

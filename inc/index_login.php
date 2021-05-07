@@ -3,10 +3,10 @@
   
 ?>
 <header> <?php include('header_log.php'); ?></header>
-<br> <br> <br>
-<body style="background-image: url('img/bg.png');background-position: center;
+<br> 
+<body style="background-image: url('img/bg.jpg');background-position: center;
 background-repeat: no-repeat;
-background-size: cover;"; >
+background-size: cover; >
   
     
 <!-- heading slider images -->
@@ -74,6 +74,7 @@ background-size: cover;"; >
                         <div class="col-md-4">
                          <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                         </div>
+                      
                         <div class="col-md-8">
                            <h3>Iphone 12 pro max</h3>
                            <p style="color:#000">Win an Iphone 12 pro max for less than 15$</p>

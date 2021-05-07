@@ -11,8 +11,9 @@ include_once('header.php');
     <section id="claim_part">
         <div class="container">
             <div class="row">
-            <div class="col-sm-6 col-12 col-md-7 col-lg-6 pr-md-0 offset-lg-1">
-                    <div class="claim_text">
+            <div class="col-sm-6 col-12 col-md-7 col-lg-6 pr-md-0 offset-lg-1 mt-4">
+             <br><br>
+                    <div class="claim_text mt-4">
                         <h2>Welcome to luckyvibe !!!</h2>
                         <h2>Where everyday is somebody's luckyday,</h2>
                         
