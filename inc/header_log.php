@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <script src="main.js"></script>
     
     <style>
         
@@ -61,7 +62,7 @@
                     Menu part start
     ===========================================   -->
     <nav class="navbar navbar-expand-md menu_head black">
-        <div class="container p-md-0">
+        <div class="container-fluid p-md-0">
         <a class="navbar-brand" href="index_login.php">Luckyvibes  <!--<img src="images/menu_logo.png" alt="menu_logo" class="img-fluid"> --></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
@@ -71,15 +72,16 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="#"> Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About Us</a>
-                    </li>
+               
                     
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Spin</a>
+                        <a class="nav-link" href="current_raffle.png">Upcomming Raffle</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Purchase Items</a>
+                        <a class="nav-link" href="#">Purchasable Items</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About Us</a>
                     </li>
 
                     <div class="dropdown">
