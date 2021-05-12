@@ -50,9 +50,35 @@
             box-shadow: 0px 6px 0px 0px rgba(102, 19, 85, 1);
             text-shadow: 5px 5px 0px rgba(166, 0, 132, 0.8);
       }
-      .black{
-          background-color:black;
-      }
+      .bg-black{
+    background-color:black;
+    height:120px;
+}
+
+.bg-custom-2 {
+background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+/* hover profile */
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  cursor:pointer;
+}
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
     </style>
 </head>
 
@@ -61,9 +87,9 @@
     <!--=============================================
                     Menu part start
     ===========================================   -->
-    <nav class="navbar navbar-expand-md menu_head black">
+    <nav class="navbar navbar-expand-md menu_head  bg-black">
         <div class="container-fluid p-md-0">
-        <a class="navbar-brand" href="index_login.php">Luckyvibes  <!--<img src="images/menu_logo.png" alt="menu_logo" class="img-fluid"> --></a>
+        <a class="navbar-brand" href="index_login.php"> <img src="img/logo.png" alt="menu_logo" class="img-fluid ml-4 d-flex justify-content-end" width="100px auto"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
             </button>
@@ -83,17 +109,25 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">About Us</a>
                     </li>
-
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">  <?= $_SESSION['username'];?></a>
+                    </li>
+                    <li class="nav-item">
+                  
                     <div class="dropdown">
-  <button class="logout dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-  <?=$_SESSION['username'] ?>
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Profile</a>
-    <a class="dropdown-item" href="#">My tickets</a>
-    <a class="dropdown-item" href="logout.php">Logout</a>
+                    
+                        <img src="img/profile.png" alt="" style="cursor:pointer">
+                         <div class="dropdown-content">
+                            <a href="#">Profile</a>
+                            <a href="#">My tickets</a>
+                            <a href="Logout.php">Logout</a>
+                        </div>
+                    </div>
+                    </li>
+
+                   
   </div>
-</div>
+                
 
 
                

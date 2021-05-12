@@ -42,9 +42,9 @@
                     <div class="foot_about">
                         <h3>About Luckyvibes</h3>
                         <p>We give you the chance to Win a Dream Phone with 10$</p>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/luckyvibes.live/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/luckyvibes.live/"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-google-plus-g"></i></a>
                         <a href="#"><i class="fab fa-pinterest-p"></i></a>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                         <div class="col-md-7">
                             <div class="foot_info_text">
                                 <ul>
-                                    <li><a href="#">Last wins</a></li>
+                                    <li><a href="#">Buy Tickets for Someone</a></li>
                                     <li><a href="#">How to Play?</a></li>
                                     <li><a href="#">Buy a Tickets</a></li>
                                     <li><a href="#">Registration Bonus</a></li>

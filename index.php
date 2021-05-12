@@ -41,86 +41,70 @@
             cursor: pointer;
            
       }
+      .container-fluid{
+        margin:0;
+      }
   </style>
 
+
+<br><br><br>
+<!-- Caroussel start -->
+<!-- Caroussel Section Items -->
+<div id="carouselExampleCaptions" class="carousel slide mt-4 mt-sm-4" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+      <img src="inc/img/banner0.png" class="d-block w-100" alt="...">
     
-<!-- heading slider images -->
-  <section>
-  <div class="container-fluid mt-2 " style="max-width:100%">
-                        
-            <div id="demo" class="carousel slide" data-ride="carousel">
-
-              <!-- 
-            Indicators -->
-              <ul class="carousel-indicators">
-                    
-                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                    
-                <li data-target="#demo" data-slide-to="1"></li>
-                    <li  data-target="#demo" data-slide-to="2"></li>
-                    <li  data-target="#demo" data-slide-to="3"></li>
-              
-              </ul>
-
-              <!-- 
-            The slideshow -->
-              <div class="carousel-inner m-0 p-0">
-                
-               <div class="carousel-item active">
-                  <img src="inc/img/banner0.png"   alt="Luckyvibes" class="img-fluid" width="100%">
-                </div>
-            
-                <div  class="carousel-item">
-                  <img src="inc/img/banner00.png"   alt="luckyvibes" class="img-fluid" width="100%">
-                </div>
-
-                <div class="carousel-item">
-                  <img src="inc/img/banner3.png" alt="luckyvibes" class="img-fluid" width="100%">
-                </div>
-
-                <div class="carousel-item">
-                  <img src="inc/img/banner4.png" alt="luckyvibes" class="img-fluid" width="100%">
-                </div>
-
-                <div class="carousel-item">
-                  <img src="inc/img/banner2.png" alt="luckyvibes" class="img-fluid" width="100%">
-                </div>
-              </div>
-
-              
-            <!-- Left and right controls -->
-              <a class="carousel-control-prev" 
-            href="#demo" data-slide="prev">
-                <span 
-            class="carousel-control-prev-icon"></span>
-              </a>
-              <a 
-            class="carousel-control-next" href="#demo" data-slide="next">
-                
-            <span class="carousel-control-next-icon"></span>
-              </a>
-
-            </div>
- 
-    </div>
-
-  </section>
-
-
-<!-- raffle  -->
-<section>
-
-<div class="container">
+      </div>
+      <div class="carousel-item ">
+        <img src="inc/img/banner00.png" class="d-block w-100" alt="...">
+       
+      </div>
+      <div class="carousel-item ">
+      <img src="inc/img/banner1.png" class="d-block w-100" alt="...">
     
-    <h1 class="text-white">Current Raffle</h1>
-      <hr>
-        <div class="row">
-                        
-        </div>
-    </div>
+      </div>
+      <div class="carousel-item ">
+      <img src="inc/img/banner2.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="inc/img/banner3.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="inc/img/banner4.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="inc/img/banner5.png" class="d-block w-100" alt="...">
+    
+      </div>
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
 
-</section>
+</div>
 
+
+
+
+  <br><br><br>
+    
 
 <?php require('faq.php'); ?>
 </body>

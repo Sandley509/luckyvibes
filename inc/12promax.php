@@ -45,7 +45,7 @@
                             <img src="img/zelle.png" alt="" srcset="" class="img-fluid  moncash" height="100px"   data-toggle="modal" data-target="#exampleModal">
                         </div>
                         <div class="col-md-3 col-3">  <!-- Zelle -->
-                            <img src="img/cashapp.png" alt="" srcset="" class="img-fluid  moncash" height="100px"   data-toggle="modal" data-target="#exampleModal"></div>
+                            <img src="img/cashapp.png" alt="" srcset="" class="img-fluid  moncash" height="100px"   data-toggle="modal" data-target="#cashapp"></div>
                         <div class="col-md-3 col-3">3</div>
 
                 </div>
@@ -71,15 +71,14 @@
       </div>
       <div class="modal-body">
           1)Go to your Zelle account <br>
-          2)find out this email: Ancotard@solarpanelmasters.com <br>
-          3)Send your tickets amount to the Email <br>
-          4)Send a screenshot of your transfer <a href="https://wa.me/message/VCXTSGV6IQ7AA1">here</a><br>
-          5)Your tickets number will be sent to you by email & whatsapp
+          2)Use this email account: Ancotard@solarpanelmasters.com <br>
+          2)Add the Participant's user Id<br>
+         
         
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Done</button>
+       
       </div>
     </div>
   </div>
@@ -89,6 +88,30 @@
 
 
 
+<!--  Cashapp Modal -->
+<div class="modal fade" id="cashapp" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"> Pay with Cash app</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          1)Send Us the user Id  <br>
+          2)<a href="https://cash.app/$newbypat">Pay here</a>
+          
+         
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Done</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
 
      
 </body>

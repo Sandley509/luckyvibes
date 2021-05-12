@@ -5,7 +5,8 @@
         <div class="container">
             
          <div class="row signup_form_pad log_form_pad">
-                <div class="col-lg-7 offset-lg-5">
+         <center>
+                <div class="col-lg-12 offset-lg-7">
                     <div class="main_signup login_main">
                         <h4>Log in</h4>
                         <p>Log in quickly to get all other facilities</p>
@@ -26,6 +27,7 @@
                         </form>
                     </div>
                 </div>
+                </center>
             </div>
         </div>
     </section>

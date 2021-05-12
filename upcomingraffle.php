@@ -44,6 +44,7 @@
 
 
 
+   <br><br> <br><br> <br>
    <!-- First Section of raffle -->
    <section>
         
@@ -53,11 +54,11 @@
                     <div class="jumbotron">
                         <div class="row">
                             <div class="col-md-4 col-4">
-                             <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                             <img src="inc/img/zfold2.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                             </div>
                             <div class="col-md-8 col-8">
-                               <h3 class="text-white">Iphone 12 pro max</h3>
-                               <p class="text-white">Win a Galaxy zfold2 for less than 15$</p>
+                               <h3 class="text-white">Yatch</h3>
+                               <p class="text-white">Win a Yatch buy ticket for upcomming Raffle</p>
                                <div class=" btn def"> <a href="12promax.php"><span style="text-decoration:none; color:#fff">Buy tickets</span></a>  </div>
                             </div>
                         </div>
@@ -83,8 +84,8 @@
                              <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                             </div>
                             <div class="col-md-8 col-8">
-                               <h3 class="text-white">Galaxy Zflod2</h3>
-                               <p class="text-white">Win a Galaxy zfold2 for less than 15$</p>
+                               <h3 class="text-white">Mercedes Benz</h3>
+                               <p class="text-white">Win a Mercedes Benz buy tickets for upcomming Raffle</p>
                                <div class="btn def">Buy tickets</div>
                             </div>
                         </div>
@@ -111,8 +112,8 @@
                                  <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                                 </div>
                                 <div class="col-md-8 col-8">
-                                   <h3 class="text-white">S20 Ultra</h3>
-                                   <p class="text-white">Win an Iphone 12 pro max for less than 15$</p>
+                                   <h3 class="text-white">Ninja Bike </h3>
+                                   <p class="text-white">Win a NInja Bike buy ticket for Upcomming Raffle</p>
                              <div class="btn def">Buy tickets</div>
                                 </div>
                             </div>

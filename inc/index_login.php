@@ -48,63 +48,66 @@ background-size: cover; ">
            
       }
   </style>
+  
+<br><br><br>  
+<!-- Caroussel item Staart -->
+
+<!-- Caroussel Section Items -->
+<div id="carouselExampleCaptions" class="carousel slide mt-4 mt-sm-4" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="5"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+      <img src="img/banner0.png" class="d-block w-100" alt="...">
     
-<!-- heading slider images -->
-  <section>
-  <div class="container-fluid mt-2 " style="max-width:100%">
-                        
-            <div id="demo" class="carousel slide" data-ride="carousel">
+      </div>
+      <div class="carousel-item ">
+        <img src="img/banner00.png" class="d-block w-100" alt="...">
+       
+      </div>
+      <div class="carousel-item ">
+      <img src="img/banner1.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="img/banner2.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="img/banner3.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="img/banner4.png" class="d-block w-100" alt="...">
+    
+      </div>
+      <div class="carousel-item ">
+      <img src="img/banner5.png" class="d-block w-100" alt="...">
+    
+      </div>
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
 
-              <!-- 
-            Indicators -->
-              <ul class="carousel-indicators">
-                
-            <li data-target="#demo" data-slide-to="0" class="active"></li>
-                
-            <li data-target="#demo" data-slide-to="1"></li>
-                <li 
-            data-target="#demo" data-slide-to="2"></li>
-              </ul>
-
-              <!-- 
-            The slideshow -->
-              <div class="carousel-inner m-0 p-0">
-                
-            <div class="carousel-item active">
-                  <img src="img/banner0.png"   alt="Luckyvibes" class="img-fluid" width="100%">
-                </div>
-                <div 
-            class="carousel-item">
-                  <img src="img/banner00.png"   alt="luckyvibes" class="img-fluid" width="100%">
-                </div>
-                <div 
-            class="carousel-item">
-                  <img src="img/banner3.png" alt="luckyvibes" class="img-fluid" width="100%">
-                </div>
-              </div>
-
-              
-            <!-- Left and right controls -->
-              <a class="carousel-control-prev" 
-            href="#demo" data-slide="prev">
-                <span 
-            class="carousel-control-prev-icon"></span>
-              </a>
-              <a 
-            class="carousel-control-next" href="#demo" data-slide="next">
-                
-            <span class="carousel-control-next-icon"></span>
-              </a>
-
-            </div>
- 
-    </div>
-
-  </section>
+</div>
 
 
-<!-- raffle  -->
-<section>
+
+
+
+
 
 <div class="container">
     
@@ -128,11 +131,11 @@ background-size: cover; ">
                 <div class="jumbotron">
                     <div class="row">
                         <div class="col-md-4 col-4">
-                         <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                         <img src="img/xr.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                         </div>
                         <div class="col-md-8 col-8">
-                           <h3 class="text-white">Iphone 12 pro max</h3>
-                           <p class="text-white">Win a Galaxy zfold2 for less than 15$</p>
+                           <h3 class="text-white">Iphone XR</h3>
+                           <p class="text-white">Win an iPhone Xr for less than 5$</p>
                            <div class=" btn def"> <a href="12promax.php"><span style="text-decoration:none; color:#fff">Buy tickets</span></a>  </div>
                         </div>
                     </div>
@@ -155,7 +158,7 @@ background-size: cover; ">
                 <div class="jumbotron">
                     <div class="row">
                         <div class="col-md-4 col-4">
-                         <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                         <img src="img/zfold2.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                         </div>
                         <div class="col-md-8 col-8">
                            <h3 class="text-white">Galaxy Zflod2</h3>

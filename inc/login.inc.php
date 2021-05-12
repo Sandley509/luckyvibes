@@ -9,7 +9,8 @@ if (isset($_POST['submit'])) {
       // error handlers
     // letsh check for empty field
     if( empty($psw & $email)){
-        header("Location: ../login.php?=Empty_field");
+        header("Location:    inc\admin\login.php?=Empty_field");
+    
         exit();
 
     }

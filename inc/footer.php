@@ -42,9 +42,9 @@
                     <div class="foot_about">
                         <h3>About Luckyvibes</h3>
                         <p>We give you the chance to Win a Dream Phone with 10$</p>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/luckyvibes.live/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/luckyvibes.live/"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-google-plus-g"></i></a>
                         <a href="#"><i class="fab fa-pinterest-p"></i></a>
                     </div>
                 </div>
@@ -56,11 +56,11 @@
                         <div class="col-md-7">
                             <div class="foot_info_text">
                                 <ul>
-                                    <li><a href="#">Last wins</a></li>
-                                    <li><a href="#">How to Play?</a></li>
+                                    <li><a href="#">Buy Tickets for Someone else</a></li>
+                                    <li><a href="#">Upcomming Raffle</a></li>
                                     <li><a href="#">Buy a Tickets</a></li>
-                                    <li><a href="#">Registration Bonus</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                   
+                                    <li><a href="https://wa.me/message/VCXTSGV6IQ7AA1">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -68,8 +68,8 @@
                             <div class="foot_info_text">
                                 <ul>
                                     <li><a href="#">Help Desk</a></li>
-                                    <li><a href="#">FAQ</a></li>
-                                    <li><a href="#">Support</a></li>
+                                  <li><a href="https://wa.me/8098445185">Support</a></li>
+                                    <li><a href="terms.php">Terms & Conditions</a></li>
                                 </ul>
                             </div>
                         </div>

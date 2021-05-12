@@ -17,58 +17,25 @@
  
 </head>
 <style>
-
-    .card-product:after {
-      content: "";
-      display: table;
-      clear: both;
-      visibility: hidden; }
-    .card-product .price-new, .card-product .price {
-      margin-right: 5px; }
-    .card-product .price-old {
-      color: #999; }
-    .card-product .img-wrap {
-      border-radius: 3px 3px 0 0;
-      overflow: hidden;
-      position: relative;
-      height: 220px;
-      text-align: center; }
-      .card-product .img-wrap img {
-        max-height: 100%;
-        max-width: 100%;
-        object-fit: cover; }
-        
-        .card-product .info-wrap {
-      overflow: hidden;
-      padding: 15px;
-      border-top: 1px solid #eee; }
-    .card-product .action-wrap {
-      padding-top: 4px;
-      margin-top: 4px; }
-    .card-product .bottom-wrap {
-      padding: 15px;
-      border-top: 1px solid #eee; }
-    .card-product .title {
-      margin-top: 0; }
-      .bg-black{
-          background-color:#000000;
-      }
-      </style>
-
+.bg-black{
+    background-color:black;
+    height:120px;
+}
+</style>
 <body style="background-color:#150035">
     <!--=============================================
                     Menu part start
     ===========================================   -->
     <nav class="navbar navbar-expand-md menu_head bg-black">
         <div class="container p-md-0">
-           <a class="navbar-brand" href="index.php">Luckyvibes  <!--<img src="images/menu_logo.png" alt="menu_logo" class="img-fluid"> --></a>
+           <a class="navbar-brand" href="index.php"> <img src="inc/img/logo.png" alt="menu_logo" class="img-fluid" width="100px auto"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
             </button>
             <div class="collapse navbar-collapse main_menu" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.php">Home</a>
+                        <a class="nav-link " href="index.php">Home</a>
                     </li>
                   
                     <li class="nav-item">
@@ -78,13 +45,13 @@
                         <a class="nav-link" href="#">Spin</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Purchasable Items</a>
+                        <a class="nav-link" href="Purchasable_items.php">Purchasable Items</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact Us</a>
+                        <a class="nav-link" href="https://wa.me/message/VCXTSGV6IQ7AA1">Contact Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">
