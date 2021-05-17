@@ -68,18 +68,18 @@
         <img src="inc/img/banner00.png" class="d-block w-100" alt="...">
        
       </div>
-      <div class="carousel-item ">
+      <!-- <div class="carousel-item ">
       <img src="inc/img/banner1.png" class="d-block w-100" alt="...">
     
-      </div>
+      </div> -->
       <div class="carousel-item ">
       <img src="inc/img/banner2.png" class="d-block w-100" alt="...">
     
       </div>
-      <div class="carousel-item ">
+      <!-- <div class="carousel-item ">
       <img src="inc/img/banner3.png" class="d-block w-100" alt="...">
     
-      </div>
+      </div> -->
       <div class="carousel-item ">
       <img src="inc/img/banner4.png" class="d-block w-100" alt="...">
     

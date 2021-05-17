@@ -3,8 +3,17 @@
 //   session_start();
 // }
 
+// Host database
+
+// $dbServername="localhost";
+// $dbUsername="luckyvibe";
+// $dbPassword="@123Modu#";
+// $dbName="luckyvibe";
 
 
+
+
+// Local Database
   $dbServername="localhost";
   $dbUsername="root";
   $dbPassword="";

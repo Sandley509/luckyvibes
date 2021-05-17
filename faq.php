@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-lg-5 pr-md-0 jhamela">
                     <div class="touna_head_left">
-                        <h3>Today’s Tournaments
+                        <h3>Today’s Raffle
                             <div class="effect3">
                                 <img src="images/shape.png" alt="shape">
                             </div>
@@ -75,7 +75,7 @@
                     <div class="row pad_today">
                         <div class="col-lg-5">
                             <div class="coun_text">
-                                <h4>New Raf Delay :</h4>
+                                <h4> Raffle Relay :</h4>
                             </div>
                         </div>
                         <div class="col-lg-7 col-12">
@@ -97,7 +97,7 @@
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>01. Rozina Khan</h5>
+                                    <h5>01....</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -105,14 +105,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>02. Gozina Hezzez</h5>
+                                    <h5>02. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -120,14 +120,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>03. Redwan Rizaj</h5>
+                                    <h5>03....</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -135,14 +135,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>04. Redwan Rizaj</h5>
+                                    <h5>04. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -150,14 +150,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>05. Omer Rinki</h5>
+                                    <h5>05. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -165,14 +165,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>06. Aaron Jack</h5>
+                                    <h5>06. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -180,14 +180,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>07. Jarvis Malcolm</h5>
+                                    <h5>07. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -195,14 +195,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>08. Redwan Rizaj</h5>
+                                    <h5>08. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -210,14 +210,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>09. Redwan Rizaj</h5>
+                                    <h5>09. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -225,14 +225,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>10. Omer Rinki</h5>
+                                    <h5>10. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -240,14 +240,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>11. Rozina Khan</h5>
+                                    <h5>11. ..</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -255,14 +255,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>12. Gozina Hezzez</h5>
+                                    <h5>12. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -270,14 +270,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>13. Redwan Rizaj</h5>
+                                    <h5>13. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -285,14 +285,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>14. Redwan Rizaj</h5>
+                                    <h5>14. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -300,14 +300,14 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row scl_pad">
                             <div class="col-lg-5 col-5">
                                 <div class="toun_scroll_name tun_border">
-                                    <h5>15. Omer Rinki</h5>
+                                    <h5>15. ...</h5>
                                 </div>
                             </div>
                             <div class="col-lg-2 col-2 text-center">
@@ -315,7 +315,7 @@
                             </div>
                             <div class="col-lg-5 col-5 text-right">
                                 <div class="toun_scroll_name tun_border">
-                                    <p>$365.25</p>
+                                    <p>$00.00</p>
                                 </div>
                             </div>
                         </div>

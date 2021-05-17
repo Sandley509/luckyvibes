@@ -20,9 +20,9 @@
                         <h3>Payment Method</h3>
                         <a href="#"><img src="img/paycard1.png" alt="paycard1"></a>
                         <a href="#"><img src="img/paycard2.png" alt="paycard2"></a>
+                        <a href="#"><img src="img/paycard3.png" alt="paycard2"></a>
                         <a href="#"><img src="img/moncash.png" alt="paycard3"></a>
-                        <a href="#"><img src="img/paycard4.png" alt="paycard4"></a>
-                        <a href="#"><img src="img/paycard5.png" alt="paycard5"></a>
+                      
                     </div>
                 </div>
             </div>

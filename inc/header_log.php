@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <script src="main.js"></script>
+    <link rel="icon" href="ffggggggggggggimg/favicon.png" type="image/png">
     
     <style>
         
@@ -36,6 +37,7 @@
             text-shadow: 5px 5px 0px rgba(88, 19, 184, .8);
             width: 150px auto;
             border: 0;
+
             margin-bottom: 25px;
             cursor: pointer;
       }
@@ -101,7 +103,7 @@ background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
                
                     
                     <li class="nav-item">
-                        <a class="nav-link" href="current_raffle.png">Upcomming Raffle</a>
+                        <a class="nav-link" href="#">Upcomming Raffle</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Purchasable Items</a>
@@ -120,7 +122,7 @@ background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
                          <div class="dropdown-content">
                             <a href="#">Profile</a>
                             <a href="#">My tickets</a>
-                            <a href="Logout.php">Logout</a>
+                            <a href="logout.php">Logout</a>
                         </div>
                     </div>
                     </li>
@@ -140,3 +142,4 @@ background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
     <!--=============================================
                     Menu part end
     ==============================================-->
+

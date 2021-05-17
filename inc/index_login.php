@@ -47,8 +47,13 @@ background-size: cover; ">
             cursor: pointer;
            
       }
+      .link{
+            text-decoration:none;
+            color:#fff;
+
+      }
   </style>
-  
+
 <br><br><br>  
 <!-- Caroussel item Staart -->
 
@@ -64,7 +69,8 @@ background-size: cover; ">
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-      <img src="img/banner0.png" class="d-block w-100" alt="...">
+      <img src="img/zfold.png" class="d-block w-100" alt="...">
+     
     
       </div>
       <div class="carousel-item ">
@@ -72,7 +78,7 @@ background-size: cover; ">
        
       </div>
       <div class="carousel-item ">
-      <img src="img/banner1.png" class="d-block w-100" alt="...">
+      <img src="img/banner0.png" class="d-block w-100" alt="...">
     
       </div>
       <div class="carousel-item ">
@@ -121,86 +127,105 @@ background-size: cover; ">
 </section>
 
 
+
    
-   <!-- First Section of raffle -->
-    <section>
-        
+   
+<!-- First section -->
+<div class="container">
+        <div class="row">
+            <div class="col-md-8 ">
+                <div class="jumbotron">
+                    <div class="row">
+                        <div class="col-md-4 col-4">
+                        <img src="img/xr.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                        </div>
+                        <div class="col-md-8 col-8">
+                        <h3 class="text-white">Iphone Xr</h3>
+                           <p class="text-white">Win a  zfold2 for  15$</p>
+                           <div class="btn def " > <a href="checkout.php" class="link">Buy tickets</a> </div>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            <div class="col-md-4"></div>
+            </div>
+          
+</div>
+    
+
+
+<!-- last section -->
     <div class="container">
         <div class="row">
             <div class="col-md-8 ">
                 <div class="jumbotron">
                     <div class="row">
                         <div class="col-md-4 col-4">
-                         <img src="img/xr.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                        <img src="img/zfold2.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                         </div>
                         <div class="col-md-8 col-8">
-                           <h3 class="text-white">Iphone XR</h3>
-                           <p class="text-white">Win an iPhone Xr for less than 5$</p>
-                           <div class=" btn def"> <a href="12promax.php"><span style="text-decoration:none; color:#fff">Buy tickets</span></a>  </div>
+                        <h3 class="text-white"> Zflod2</h3>
+                           <p class="text-white">Win a  zfold2 for  15$</p>
+                           <div class="btn def " > <a href="checkout.php" class="link">Buy tickets</a> </div>
+                          </div>
                         </div>
                     </div>
                 </div>
-            
-            </div>
             <div class="col-md-4"></div>
-        
-        </div>
-    </div>
+            </div>
+          
+</div>
 
 
-    </section>
-   <!-- second Section of raffle -->
-    <section>
-        
-    <div class="container">
+<!-- third section -->
+<div class="container">
         <div class="row">
             <div class="col-md-8 ">
                 <div class="jumbotron">
                     <div class="row">
                         <div class="col-md-4 col-4">
-                         <img src="img/zfold2.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                        <img src="img/s20.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
                         </div>
                         <div class="col-md-8 col-8">
-                           <h3 class="text-white">Galaxy Zflod2</h3>
-                           <p class="text-white">Win a Galaxy zfold2 for less than 15$</p>
-                           <div class="btn def">Buy tickets</div>
+                        <h3 class="text-white"> S20 Ultra</h3>
+                           <p class="text-white">Win an  S20 ultra for 15$</p>
+                           <div class="btn def " > <a href="checkout.php" class="link">Buy tickets</a> </div>
+                          </div>
                         </div>
                     </div>
                 </div>
-            
-            </div>
             <div class="col-md-4"></div>
-        
-        </div>
-    </div>
+            </div>
+          
+</div>
 
 
-    </section>
 
-     <!-- thirth Section of raffle -->
-     <section>
-        
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 ">
-                    <div class="jumbotron">
-                        <div class="row">
-                            <div class="col-md-4 col-4">
-                             <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
-                            </div>
-                            <div class="col-md-8 col-8">
-                               <h3 class="text-white">S20 Ultra</h3>
-                               <p class="text-white">Win an Iphone 12 pro max for less than 15$</p>
-                         <div class="btn def">Buy tickets</div>
-                            </div>
+<!-- fourth section -->
+<div class="container">
+        <div class="row">
+            <div class="col-md-8 ">
+                <div class="jumbotron">
+                    <div class="row">
+                        <div class="col-md-4 col-4">
+                        <img src="img/raf.png" alt="" srcset="" class="img-fluid" width="100px" style="border-radius:15px">
+                        </div>
+                        <div class="col-md-8 col-8">
+                        <h3 class="text-white">iPhone 12  pro Max</h3>
+                           <p class="text-white">Win an  iphone 12 pro mAx for 15$</p>
+                           <div class="btn def " > <a href="checkout.php" class="link">Buy tickets</a> </div>
+                          </div>
                         </div>
                     </div>
-                
                 </div>
-                <div class="col-md-4"></div>
+            
             
             </div>
-        </div>
+            <div class="col-md-4">
+               
+            </div>
+          
+</div>
     
     
         </section>

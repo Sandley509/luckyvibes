@@ -18,11 +18,11 @@
                 <div class="col-lg-5 col-md-6 col-12 pr-md-0 offset-lg-1">
                     <div class="pay_meth">
                         <h3>Payment Method</h3>
-                        <a href="#"><img src="images/paycard1.png" alt="paycard1"></a>
-                        <a href="#"><img src="images/paycard2.png" alt="paycard2"></a>
-                        <a href="#"><img src="images/moncash.png" alt="paycard3"></a>
-                        <a href="#"><img src="images/paycard4.png" alt="paycard4"></a>
-                        <a href="#"><img src="images/paycard5.png" alt="paycard5"></a>
+                        <a href="#"><img src="inc/img/paycard1.png" alt="paycard1"></a>
+                        <a href="#"><img src="inc/img/paycard2.png" alt="paycard2"></a>
+                        <a href="#"><img src="inc/img/moncash.png" alt="paycard3"></a>
+                        <a href="#"><img src="inc/img/paycard3.png" alt="paycard4"></a>
+                    
                     </div>
                 </div>
             </div>
@@ -44,8 +44,7 @@
                         <p>We give you the chance to Win a Dream Phone with 10$</p>
                         <a href="https://www.facebook.com/luckyvibes.live/"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://www.instagram.com/luckyvibes.live/"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 jhamela">
@@ -56,10 +55,8 @@
                         <div class="col-md-7">
                             <div class="foot_info_text">
                                 <ul>
-                                    <li><a href="#">Buy Tickets for Someone</a></li>
-                                    <li><a href="#">How to Play?</a></li>
+                                    <li><a href="">Buy Tickets for Someone</a></li>
                                     <li><a href="#">Buy a Tickets</a></li>
-                                    <li><a href="#">Registration Bonus</a></li>
                                     <li><a href="#">Contact</a></li>
                                 </ul>
                             </div>
@@ -67,9 +64,9 @@
                         <div class="col-md-5">
                             <div class="foot_info_text">
                                 <ul>
-                                    <li><a href="#">Help Desk</a></li>
-                                    <li><a href="#">FAQ</a></li>
-                                    <li><a href="#">Support</a></li>
+                                  
+                 
+                                    <li><a href="mailto:support@luckyvibes.live">Support Desk</a></li>
                                     <li><a href="terms.php">Terms & Conditions</a></li>
                                 </ul>
                             </div>

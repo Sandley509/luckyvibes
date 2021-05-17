@@ -47,7 +47,7 @@ if (isset($_POST['submit'])) {
 
 
                     $_SESSION['username']=$username;
-                    header("Location: login.php?=Connection_Success");
+                    header("Location: ../login.php?=Connection_Success");
               
                     exit();
                 }

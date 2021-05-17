@@ -11,7 +11,7 @@
                 </div>
                 <div class="col-lg-6 col-md-7 pr-md-0 offset-lg-1">
                     <div class="about_play">
-                        <p class="d-none d-lg-block">
+                        <p class=" d-lg-block">
                         Welcome to Luckyvibes, where every day is someone’s lucky day. 
                                 Here at Luckyvibes we make owning a new device fun and exciting.  
                                 With a little bit of luck and some spare change, you can make the dream of

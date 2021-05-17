@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,12 +12,16 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
- 
+    <link rel="icon" href="inc/img/favicon.png" type="image/png">
 </head>
 <style>
 .bg-black{
     background-color:black;
     height:120px;
+}
+.signup{
+    border-radius:13px;
+  
 }
 </style>
 <body style="background-color:#150035">
@@ -41,12 +43,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="upcomingraffle.php">Upcoming Raffle</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Spin</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="Purchasable_items.php">Purchasable Items</a>
-                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About </a>
                     </li>
@@ -58,9 +55,10 @@
                         <div id="google_translate_element" ></div> 
                         </a>
                     </li>
+                    <a href="sign_up.php" class="btn btn-outline-warning signup">Singup</a> <br>
+                <a href="login.php" " class="btn btn-outline-warning signup ml-4">Login</a>
                 </ul>
-                <a href="sign_up.php">Singup</a>
-                <a href="login.php">Login</a>
+            
             </div>
         </div>
     </nav>
